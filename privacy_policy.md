@@ -1,8 +1,8 @@
-### Privacy Policy for TrailTracker
+### Privacy Policy for GeoHive
 
 **Last Updated: July 27, 2025**
 
-Thank you for using TrailTracker ("the App"). This Privacy Policy explains how we collect, use, store, and share your information when you use our application. Your privacy is important to us, and we are committed to protecting it. By using TrailTracker, you agree to the collection and use of information in accordance with this policy.
+Thank you for using GeoHive ("the App"). This Privacy Policy explains how we collect, use, store, and share your information when you use our application. Your privacy is important to us, and we are committed to protecting it. By using GeoHive, you agree to the collection and use of information in accordance with this policy.
 
 #### **1. Information We Collect**
 
@@ -45,11 +45,11 @@ We do not sell your personal data. We only share your information in the followi
 You have control over your personal information and can exercise your rights at any time:
 
 *   **Access and Deletion:** You can access your track history and contacts at any time within the app. You have the right to delete individual tracks, checkpoints, contacts, or your entire account. Deleting your account will permanently remove all your associated data from our servers.
-*   **Location Services:** You can enable or disable location services for TrailTracker at any time through your device's settings. Please note that disabling location services will prevent the app's core tracking features from working.
+*   **Location Services:** You can enable or disable location services for GeoHive at any time through your device's settings. Please note that disabling location services will prevent the app's core tracking features from working.
 
 #### **6. Children's Privacy**
 
-TrailTracker is not intended for use by children under the age of 13 (or the equivalent minimum age in your jurisdiction). We do not knowingly collect personal information from children. If we become aware that we have collected data from a child without verification of parental consent, we will take steps to remove that information.
+GeoHive is not intended for use by children under the age of 13 (or the equivalent minimum age in your jurisdiction). We do not knowingly collect personal information from children. If we become aware that we have collected data from a child without verification of parental consent, we will take steps to remove that information.
 
 #### **7. Changes to This Privacy Policy**
 
@@ -58,3 +58,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 #### **8. Contact Us**
 
 If you have any questions about this Privacy Policy, please contact us at: **00geohive00@gmail.com**
+
